@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="108" fill="#18181b" />
+  <rect x="24" y="24" width="464" height="464" rx="88" stroke="#27272a" stroke-width="4" />
+  <!-- Architectural grid subtle background -->
+  <path d="M128 80V432M256 80V432M384 80V432M80 128H432M80 256H432M80 384H432" stroke="#27272a" stroke-width="2" />
+  <!-- BOQ Ledger / Blueprint Sheet -->
+  <rect x="112" y="96" width="288" height="320" rx="28" fill="#ffffff" />
+  <!-- Header Strip -->
+  <rect x="112" y="96" width="288" height="68" rx="28" fill="#047857" />
+  <rect x="112" y="136" width="288" height="28" fill="#047857" />
+  <!-- Header Title Bars -->
+  <rect x="148" y="120" width="144" height="16" rx="8" fill="#ffffff" />
+  <circle cx="352" cy="128" r="10" fill="#a7f3d0" />
+  <!-- BOQ Table Rows -->
+  <rect x="144" y="196" width="128" height="16" rx="8" fill="#18181b" />
+  <rect x="304" y="196" width="64" height="16" rx="8" fill="#10b981" />
+  <line x1="144" y1="234" x2="368" y2="234" stroke="#e4e4e7" stroke-width="3" />
+  <rect x="144" y="256" width="136" height="16" rx="8" fill="#3f3f46" />
+  <rect x="304" y="256" width="64" height="16" rx="8" fill="#10b981" />
+  <line x1="144" y1="294" x2="368" y2="294" stroke="#e4e4e7" stroke-width="3" />
+  <rect x="144" y="316" width="112" height="16" rx="8" fill="#3f3f46" />
+  <rect x="304" y="316" width="64" height="16" rx="8" fill="#10b981" />
+  <!-- Total Summary Pill Box -->
+  <rect x="144" y="356" width="224" height="32" rx="10" fill="#ecfdf5" stroke="#047857" stroke-width="3" />
+  <rect x="164" y="367" width="96" height="10" rx="5" fill="#047857" />
+  <rect x="296" y="367" width="52" height="10" rx="5" fill="#18181b" />
+</svg>
